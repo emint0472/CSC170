@@ -8,3 +8,7 @@ Updates - 11/14/25
 updated flowchart
 updated uml with different variable names
 uploaded code file into respository 
+
+Updates - 11/21/25
+small updates to movements of actors in my code
+also updated that on my flowcharts
